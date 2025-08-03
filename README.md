@@ -42,11 +42,6 @@ Diploma in Computer Applications Programming
 
 Universidad Nacional de Costa Rica | 2023 - 2025
 
-📊 Most Used Languages & Top Skills
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarrenCV&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
-</div>
-
 📫 Contact
 
 Email: jarrenchavesv1@gmail.com
