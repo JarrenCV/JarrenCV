@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Jzbnlxa2d4Mm50bXdvZmxzOG85OWw0eHI3OGI5aTdyN3FubnU0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oP2j5J9LpU0pXvGf/giphy.gif" alt="Coding Banner" width="600" />
+<h1>Hello! I'm Jarren Chaves 👋</h1>
+<h3>Information Systems Engineering Student</h3>
+<p>🚀 Passionate about Machine Learning & Data Analysis | 💡 Seeking opportunities to innovate</p>
+</div>
 
-<!--
-**JarrenCV/JarrenCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h3>Technologies and Tools</h3>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+I am a proactive and adaptable Information Systems Engineering student with my sights set on the fascinating world of Machine Learning and Data Analysis. My background has provided me with a solid foundation in software development, systems architecture, and agile methodologies.
+
+I have the ability to work efficiently under pressure and enjoy solving complex problems as part of a team. My goal is to combine my technical skills with an analytical mindset to extract knowledge from data, build predictive models, and create intelligent solutions that drive innovation.
+
+💻 My Featured Projects
+Take a look at some of my projects to see my work in action:
+
+🌐 Secure Web Infrastructure on Azure
+Description: Designed and implemented a robust cloud architecture with Linux and Windows servers, including authentication, load balancing, and a complete CI/CD pipeline.
+
+Technologies: Azure, Kubernetes, Docker, Active Directory, CI/CD.
+
+🏥 SPA for Medical Appointment Management
+Description: A single-page web application developed with React for the frontend and Spring Boot for the backend, featuring a JWT authentication system and role-based access control.
+
+Technologies: React, Spring Boot, JWT, MySQL.
+
+📧 Mini-Kafka: Distributed Messaging System
+Description: Implemented a distributed messaging system in C, simulating functionalities of a system like Kafka, with socket communication and concurrency management.
+
+Technologies: C, TCP Sockets, IPC, Concurrency.
+
+📚 Education
+Bachelor's Degree in Information Systems Engineering
+
+Universidad Nacional de Costa Rica | 2023 - Present
+
+Diploma in Computer Applications Programming
+
+Universidad Nacional de Costa Rica | 2023 - 2025
+
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JarrenCV&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JarrenCV&theme=dark" alt="GitHub Streak" />
+</div>
+
+📫 Contact
+I'd love to collaborate or just chat about technology!
+
+Email: jarrenchavesv1@gmail.com
+
+LinkedIn: (Add your LinkedIn link here if you have one)
