@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Jzbnlxa2d4Mm50bXdvZmxzOG85OWw0eHI3OGI5aTdyN3FubnU0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oP2j5J9LpU0pXvGf/giphy.gif" alt="Coding Banner" width="600" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY4YjE4NWVxaWhxdmd3dWtnMDZnZDVxMTRpeTRmZWM0emk5OHMzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1QffP8E6nk4gKYZO5S/giphy.gif" alt="Coding Banner" width="600" />
 <h1>Hello! I'm Jarren Chaves 👋</h1>
 <h3>Information Systems Engineering Student</h3>
 <p>🚀 Passionate about Machine Learning & Data Analysis | 💡 Seeking opportunities to innovate</p>
@@ -42,15 +42,13 @@ Diploma in Computer Applications Programming
 
 Universidad Nacional de Costa Rica | 2023 - 2025
 
-📈 GitHub Stats
+📊 Most Used Languages & Top Skills
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JarrenCV&show_icons=true&theme=dark" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JarrenCV&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarrenCV&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
 </div>
 
 📫 Contact
-I'd love to collaborate or just chat about technology!
 
 Email: jarrenchavesv1@gmail.com
 
-LinkedIn: (Add your LinkedIn link here if you have one)
+LinkedIn: www.linkedin.com/in/jarrencv
